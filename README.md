@@ -24,7 +24,7 @@ A place to keep track of all my open source contributions and the progress repor
 ## Cons
 - When involving sensitive information
 - Initial/potential reliance on usage of Github
-- Familiarity with Markdown syntax
+- Familiarity with Markdown syntax required
 
 ---
 
