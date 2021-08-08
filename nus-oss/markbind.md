@@ -35,7 +35,13 @@ Good luck!
 - Merged PR #879 (...)
 -->
 ## Week 0
-
+- Created an issue with User Guide hyperlink not working:
+  - [MarkBind/markbind#1339](https://github.com/MarkBind/markbind/issues/1339)
+- Setup and get acquainted with MarkBind by
+  - [forking the repository](https://github.com/tlylt/markbind), and
+  - creating two experimental PRs:
+    - [tlylt/markbind#1](https://github.com/tlylt/markbind/pull/1) 
+    - [tlylt/markbind#2](https://github.com/tlylt/markbind/pull/2)
 ## Week 1 (9 Aug 2021)
 -  PLACEHOLDER
 -  PLACEHOLDER
