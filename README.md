@@ -29,6 +29,8 @@ A place to keep track of all my open source contributions and the progress repor
 ---
 
 ## Development
-I will be testing it out and tweaking this to suit my needs. If it is somehow relevant and useful to others, I will make further updates to:
+I will be testing it out and tweaking this to suit my needs. My usage of the template will be in a separate branch `tlylt` and can be seen [here](https://github.com/tlylt/oss-progress-report/blob/tlylt/nus-oss/markbind.md).
+
+If it is somehow relevant and useful to others, I will make further updates to:
 - potentially make this into a repo template for easier adaptation
 - include a proper how-to-use guide for anyone who share the use cases above and want to use this as a starting point to their OSS Progress Report
