@@ -35,13 +35,20 @@ Good luck!
 - Merged PR #879 (...)
 -->
 ## Week 0
-- Created an issue with User Guide hyperlink not working:
+- Created issues with User Guide hyperlink not working:
   - [MarkBind/markbind#1339](https://github.com/MarkBind/markbind/issues/1339)
+  - [MarkBind/markbind#1528](https://github.com/MarkBind/markbind/issues/1528)
+- Discussed line ending issues of different OS for development:
+  - [MarkBind/markbind#1640](https://github.com/MarkBind/markbind/issues/1640)
 - Setup and get acquainted with MarkBind by
   - [forking the repository](https://github.com/tlylt/markbind), and
   - creating two experimental PRs:
-    - [tlylt/markbind#1](https://github.com/tlylt/markbind/pull/1) 
-    - [tlylt/markbind#2](https://github.com/tlylt/markbind/pull/2)
+    - [Update devGuide setting up section](https://github.com/tlylt/markbind/pull/1) 
+    - [Include unit tests for default plugins](https://github.com/tlylt/markbind/pull/2)
+- Created an issue based on inconsistent test results:
+  - [Functional tests failed to run properly when executing npm run test in packages/cli](https://github.com/MarkBind/markbind/issues/1641)
+- Investigated issue [Unnecessary files in test site folder](https://github.com/MarkBind/markbind/issues/792):
+  - Rasied a follow-up issue [Add/fix documentation for usage of open bugs page under test/functional/test_site/bugs](https://github.com/MarkBind/markbind/issues/1644) for discussion.
 ## Week 1 (9 Aug 2021)
 -  PLACEHOLDER
 -  PLACEHOLDER
