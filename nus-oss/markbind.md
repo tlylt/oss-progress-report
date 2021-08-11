@@ -35,7 +35,7 @@ Good luck!
 - Merged PR #879 (...)
 -->
 ## Week 0
-- Created issues with User Guide hyperlink not working:
+- Created issues with regards to User Guide hyperlink not working:
   - [MarkBind/markbind#1339](https://github.com/MarkBind/markbind/issues/1339)
   - [MarkBind/markbind#1528](https://github.com/MarkBind/markbind/issues/1528)
 - Discussed line ending issues of different OS for development:
@@ -50,8 +50,8 @@ Good luck!
 - Investigated issue [Unnecessary files in test site folder](https://github.com/MarkBind/markbind/issues/792):
   - Rasied a follow-up issue [Add/fix documentation for usage of open bugs page under test/functional/test_site/bugs](https://github.com/MarkBind/markbind/issues/1644) for discussion.
 ## Week 1 (9 Aug 2021)
--  PLACEHOLDER
--  PLACEHOLDER
+- Raised an issue on the upgrade of commander.js version to improve code quality:
+  - [MarkBind/markbind#1648](https://github.com/MarkBind/markbind/issues/1648) 
 
 ## Week 2 (16 Aug 2021)
 
