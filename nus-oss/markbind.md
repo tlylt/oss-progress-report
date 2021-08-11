@@ -52,6 +52,8 @@ Good luck!
 ## Week 1 (9 Aug 2021)
 - Raised an issue on the upgrade of commander.js version to improve code quality:
   - [MarkBind/markbind#1648](https://github.com/MarkBind/markbind/issues/1648) 
+- Merged PR to fix package level test running issues
+  - [MarkBind/markbind#1645](https://github.com/MarkBind/markbind/pull/1645)
 
 ## Week 2 (16 Aug 2021)
 
