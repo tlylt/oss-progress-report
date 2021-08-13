@@ -54,6 +54,8 @@ Good luck!
   - [MarkBind/markbind#1648](https://github.com/MarkBind/markbind/issues/1648) 
 - Merged PR to fix package level test running issues
   - [MarkBind/markbind#1645](https://github.com/MarkBind/markbind/pull/1645)
+- Investigated the pros and cons of separating commands in `packages/cli/index.js` into separate files for better organization and decided to delay that at this moment.
+  - Checked with the community using Commander.js via [tj/commanderjs](https://github.com/tj/commander.js/issues/1581). I think this is a low priority refactor that may be useful in future updates. Currently an added layer of abstraction may not be that desirable.
 
 ## Week 2 (16 Aug 2021)
 
