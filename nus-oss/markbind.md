@@ -58,6 +58,7 @@ Good luck!
   - Checked with the community using Commander.js via [tj/commanderjs](https://github.com/tj/commander.js/issues/1581). I think this is a low priority refactor that may be useful in future updates. Currently an added layer of abstraction may not be that desirable.
 
 ## Week 2 (16 Aug 2021)
+- Raised PR [Update linebreak-style settings](https://github.com/MarkBind/markbind/pull/1653) to address line ending issues.
 
 # Summary Of Achievements
 <!--
