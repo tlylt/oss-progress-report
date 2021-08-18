@@ -62,6 +62,8 @@ Good luck!
 - Investigated issue [MarkBind/markbind#1571](https://github.com/MarkBind/markbind/issues/1571):
   - It is reported that "A search bar without enabling search results in a blank page.", However, after some investigation, I was unable to reproduce the error. I have also noticed that the `enableSearch` variable is set to true, by default. This is the same for both templates that MarkBind offers at the moment(default and minimal).
   - I have followed up with OP to see if there are further actions required.
+- Investigated issue [MarkBind/markbind#416](https://github.com/MarkBind/markbind/issues/416):
+  - It is reported that "Build console progress bar doesn't show when using 'gitbash on Windows' terminals". I have tested on various console (cmd, bash, within/out of vscode) and could not reproduce the error. The progress bar is working as expected. A side note is that the suspected bug that was previously causing this reported issue has a quick patch that can be applied if this reported issue is still valid. If the issue stems from the `node-progress` package that MarkBind is using, the reported bug in the `node-progress` package is unlikely to be fixed (though a fix PR has been submitted) as it seemed to be unmaintained.
 # Summary Of Achievements
 <!--
 ## Overview:
