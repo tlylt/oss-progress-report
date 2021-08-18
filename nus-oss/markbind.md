@@ -59,7 +59,9 @@ Good luck!
 
 ## Week 2 (16 Aug 2021)
 - Raised PR [Update linebreak-style settings](https://github.com/MarkBind/markbind/pull/1653) to address line ending issues.
-
+- Investigated issue [MarkBind/markbind#1571](https://github.com/MarkBind/markbind/issues/1571):
+  - It is reported that "A search bar without enabling search results in a blank page.", However, after some investigation, I was unable to reproduce the error. I have also noticed that the `enableSearch` variable is set to true, by default. This is the same for both templates that MarkBind offers at the moment(default and minimal).
+  - I have followed up with OP to see if there are further actions required.
 # Summary Of Achievements
 <!--
 ## Overview:
