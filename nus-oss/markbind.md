@@ -68,6 +68,10 @@ Good luck!
 ## Week 3 (23 Aug 2021)
 - Raised PR [Fix bug-report issue template file path](https://github.com/MarkBind/markbind/pull/1658) to fix an issue with outdated information in the issue template.
 - Raised PR [Update workflow docs](https://github.com/MarkBind/markbind/pull/1659) to update the developer guide on how to manage dependencies.
+- Investigated an [issue](https://github.com/MarkBind/markbind/issues/1646) on keeping track of contributors to the MarkBind project so far.
+  - Listed out pros and cons of all-contributors and a less powerful alternative.
+
+## Week 4 (30 Aug 2021)
 
 # Summary Of Achievements
 <!--
