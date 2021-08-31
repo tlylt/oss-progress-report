@@ -70,8 +70,8 @@ Good luck!
 - Raised PR [Update workflow docs](https://github.com/MarkBind/markbind/pull/1659) to update the developer guide on how to manage dependencies.
 - Investigated an [issue](https://github.com/MarkBind/markbind/issues/1646) on keeping track of contributors to the MarkBind project so far.
   - Listed out pros and cons of all-contributors and a less powerful alternative.
-
 ## Week 4 (30 Aug 2021)
+- Updated PR [patch node-progress](https://github.com/MarkBind/markbind/pull/1654) to resolve issues with the display of progress bar on MinTTY terminals.
 
 # Summary Of Achievements
 <!--
