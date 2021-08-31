@@ -47,7 +47,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://tlylt.github.io/"><img src="https://avatars.githubusercontent.com/u/41845017?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Liu YongLiang</b></sub></a><br /><a href="https://github.com/tlylt/oss-progress-report/commits?author=tlylt" title="Code">💻</a></td>
+    <td align="center"><a href="https://tlylt.github.io/"><img src="https://avatars.githubusercontent.com/u/41845017?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Liu YongLiang</b></sub></a><br /><a href="https://github.com/tlylt/oss-progress-report/commits?author=tlylt" title="Code">💻</a> <a href="https://github.com/tlylt/oss-progress-report/commits?author=tlylt" title="Tests">⚠️</a></td>
   </tr>
 </table>
 
