@@ -72,7 +72,9 @@ Good luck!
   - Listed out pros and cons of all-contributors and a less powerful alternative.
 ## Week 4 (30 Aug 2021)
 - Updated PR [patch node-progress](https://github.com/MarkBind/markbind/pull/1654) to resolve issues with the display of progress bar on MinTTY terminals.
-
+- Looked further into the [issue of adding contributors](https://github.com/MarkBind/markbind/issues/1646):
+  - More research done on how other developers use all-contributors bot and the pros and cons of automating it.
+  - Listed out action items to move this suggestion forward.
 # Summary Of Achievements
 <!--
 ## Overview:
