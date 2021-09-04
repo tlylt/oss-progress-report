@@ -75,6 +75,10 @@ Good luck!
 - Looked further into the [issue of adding contributors](https://github.com/MarkBind/markbind/issues/1646):
   - More research done on how other developers use all-contributors bot and the pros and cons of automating it.
   - Listed out action items to move this suggestion forward.
+- Raised PR [Add contributors](https://github.com/MarkBind/markbind/pull/1662) to setup required files for all-contributors integration.
+
+## Week 5 (6 Sep 2021)
+
 # Summary Of Achievements
 <!--
 ## Overview:
