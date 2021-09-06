@@ -78,6 +78,7 @@ Good luck!
 - Raised PR [Add contributors](https://github.com/MarkBind/markbind/pull/1662) to setup required files for all-contributors integration.
 
 ## Week 5 (6 Sep 2021)
+- Looked into the bug report [Use of optional chaining operator](https://github.com/MarkBind/markbind/issues/1664) and explained to the questioner that it might be due to issues with outdated Eslint package.
 
 # Summary Of Achievements
 <!--
