@@ -80,6 +80,13 @@ Good luck!
 ## Week 5 (6 Sep 2021)
 - Looked into the bug report [Use of optional chaining operator](https://github.com/MarkBind/markbind/issues/1664) and explained to the questioner that it might be due to issues with outdated Eslint package.
 
+## Week 6 (13 Sep 2021)
+- Investigated feature request: [Give easy ways to add different types of horizontal lines](https://github.com/MarkBind/markbind/issues/897)
+
+## Week 7 (20 Sep 2021)
+- Investigated feature request: [Give easy ways to add different types of horizontal lines](https://github.com/MarkBind/markbind/issues/897)
+
+
 # Summary Of Achievements
 <!--
 ## Overview:
