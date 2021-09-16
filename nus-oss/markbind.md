@@ -82,10 +82,11 @@ Good luck!
 
 ## Week 6 (13 Sep 2021)
 - Investigated feature request: [Give easy ways to add different types of horizontal lines](https://github.com/MarkBind/markbind/issues/897)
+  - Researching relevant markdown-it plugins and figuring out how to add a customized markdown rule
 
 ## Week 7 (20 Sep 2021)
-- Investigated feature request: [Give easy ways to add different types of horizontal lines](https://github.com/MarkBind/markbind/issues/897)
 
+## Week 8 (27 Sep 2021)
 
 # Summary Of Achievements
 <!--
