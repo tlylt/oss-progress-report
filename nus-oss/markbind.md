@@ -84,9 +84,11 @@ Good luck!
 - Investigated feature request: [Give easy ways to add different types of horizontal lines](https://github.com/MarkBind/markbind/issues/897)
   - Researching relevant markdown-it plugins and figuring out how to add a customized markdown rule
 
-## Week 7 (20 Sep 2021)
+## Recess Week (20 Sep 2021)
 
-## Week 8 (27 Sep 2021)
+## Week 7 (27 Sep 2021)
+- Further investigation on Eslint Error and line ending issues.
+- Raise an issue on [unable to unlink package](https://github.com/MarkBind/markbind/issues/1673)
 
 # Summary Of Achievements
 <!--
