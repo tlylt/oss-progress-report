@@ -87,7 +87,8 @@ Good luck!
 ## Recess Week (20 Sep 2021)
 
 ## Week 7 (27 Sep 2021)
-- Further investigation on Eslint Error and line ending issues. Updated the WIP PR to only apply changes to `.gitattributes`.
+- Further investigation on Eslint Error and line ending issues. 
+  - Updated the WIP PR to only apply changes to `.gitattributes`.
 - Raise an issue on [unable to unlink package](https://github.com/MarkBind/markbind/issues/1673).
   - Raised a follow-up [PR](https://github.com/MarkBind/markbind/pull/1674) to udpate the documentation and fix the issue.
 # Summary Of Achievements
