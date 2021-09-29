@@ -88,8 +88,8 @@ Good luck!
 
 ## Week 7 (27 Sep 2021)
 - Further investigation on Eslint Error and line ending issues.
-- Raise an issue on [unable to unlink package](https://github.com/MarkBind/markbind/issues/1673)
-
+- Raise an issue on [unable to unlink package](https://github.com/MarkBind/markbind/issues/1673).
+  - Raised a follow-up [PR](https://github.com/MarkBind/markbind/pull/1674) to udpate the documentation and fix the issue.
 # Summary Of Achievements
 <!--
 ## Overview:
