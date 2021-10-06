@@ -91,6 +91,12 @@ Good luck!
   - Updated the WIP PR to only apply changes to `.gitattributes`.
 - Raise an issue on [unable to unlink package](https://github.com/MarkBind/markbind/issues/1673).
   - Raised a follow-up [PR](https://github.com/MarkBind/markbind/pull/1674) to udpate the documentation and fix the issue.
+
+## Week 8 (4 Oct 2021)
+- Raised a bug report [Unable to add multiple class names to hr element](https://github.com/MarkBind/markbind/issues/1676).
+  - Investigated and seems like it may not be related to markdown-it-attrs, but with the markdown-it package.
+- Worked on finishing up the hr element styling improvements
+
 # Summary Of Achievements
 <!--
 ## Overview:
