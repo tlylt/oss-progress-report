@@ -97,6 +97,9 @@ Good luck!
   - Investigated and seems like it may not be related to markdown-it-attrs, but with the markdown-it package.
 - Worked on finishing up the hr element styling improvements
 
+## Week 9 (11 Oct 2021)
+- Hiatus: pending an update on a blocking [issue](https://github.com/MarkBind/markbind/issues/1678)
+ 
 # Summary Of Achievements
 <!--
 ## Overview:
