@@ -100,6 +100,9 @@ Good luck!
 ## Week 9 (11 Oct 2021)
 - Hiatus: pending an update on a blocking [issue](https://github.com/MarkBind/markbind/issues/1678)
  
+## Week 10 - 11 (25 Oct 2021)
+- Wrapping up
+
 # Summary Of Achievements
 <!--
 ## Overview:
@@ -112,8 +115,14 @@ Good luck!
 
 ## Breakdown:
 ### PRs merged
-- PLACEHOLDER
-### PRs reviewed
-- PLACEHOLDER
+#### Documentation
+- Updated developer guide to reflect the latest working commands and instructions.
+- Setup all-contributor for ease of adding new contributors and recognize their efforts.
+- Fixed typos and outdated links.
+#### Bug fixes
+- Patched node-progress to solve a terminal display.
+- Fixed running functional tests in the cli package
+#### Refactor
+- Updated Commander.js to remove the previous workaround code.
+
 ### Issues raised
-- PLACEHOLDER
