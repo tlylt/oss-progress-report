@@ -89,19 +89,22 @@ Good luck!
 ## Week 7 (27 Sep 2021)
 - Further investigation on Eslint Error and line ending issues. 
   - Updated the WIP PR to only apply changes to `.gitattributes`.
-- Raise an issue on [unable to unlink package](https://github.com/MarkBind/markbind/issues/1673).
+- Raised an issue on [unable to unlink package](https://github.com/MarkBind/markbind/issues/1673).
   - Raised a follow-up [PR](https://github.com/MarkBind/markbind/pull/1674) to udpate the documentation and fix the issue.
 
 ## Week 8 (4 Oct 2021)
 - Raised a bug report [Unable to add multiple class names to hr element](https://github.com/MarkBind/markbind/issues/1676).
   - Investigated and seems like it may not be related to markdown-it-attrs, but with the markdown-it package.
-- Worked on finishing up the hr element styling improvements
+- Worked on finishing up the hr element styling improvements.
 
 ## Week 9 (11 Oct 2021)
-- Hiatus: pending an update on a blocking [issue](https://github.com/MarkBind/markbind/issues/1678)
+- Hiatus: pending an update on a blocking [issue](https://github.com/MarkBind/markbind/issues/1678).
  
 ## Week 10 - 11 (25 Oct 2021)
-- Wrapping up
+- Raised PR [add LF normalization exceptions](https://github.com/MarkBind/markbind/pull/1683) to fix unwanted modifications to binary files.
+
+## Week 12 (1 Nov 2021)
+- Raised PR [improve hr styles](https://github.com/MarkBind/markbind/pull/1685) to add easy ways to style the hr element.
 
 # Summary Of Achievements
 <!--
@@ -114,6 +117,11 @@ Good luck!
 - [Issues created by me](https://github.com/MarkBind/markbind/issues/created_by/tlylt)
 
 ## Breakdown:
+### Issues raised
+- Documentation bugs.
+- Suggested code improvements.
+- Feature flaws.
+
 ### PRs merged
 #### Documentation
 - Updated developer guide to reflect the latest working commands and instructions.
@@ -121,8 +129,13 @@ Good luck!
 - Fixed typos and outdated links.
 #### Bug fixes
 - Patched node-progress to solve a terminal display.
-- Fixed running functional tests in the cli package
+- Fixed running functional tests in the cli package.
 #### Refactor
 - Updated Commander.js to remove the previous workaround code.
 
-### Issues raised
+#### Feature improvements
+- Added convenient styling helpers for the hr element.
+
+#### Testing
+- Created test cases for default plugins. 
+
