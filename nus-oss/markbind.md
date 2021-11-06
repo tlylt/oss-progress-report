@@ -105,6 +105,7 @@ Good luck!
 
 ## Week 12 (1 Nov 2021)
 - Raised PR [improve hr styles](https://github.com/MarkBind/markbind/pull/1685) to add easy ways to style the hr element.
+  - On hold till the blocking issue is resolved.
 
 # Summary Of Achievements
 <!--
@@ -134,7 +135,7 @@ Good luck!
 - Updated Commander.js to remove the previous workaround code.
 
 #### Feature improvements
-- Added convenient styling helpers for the hr element.
+- Added convenient styling helpers for the hr element.(On hold)
 
 #### Testing
 - Created test cases for default plugins. 
