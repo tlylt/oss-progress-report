@@ -1,6 +1,6 @@
 <!--
 Customize this by replacing PLACEHOLDER with your information.
-Examples will be given for easy copy-pasting.
+Examples will be given in the comments for easy reference & copy-pasting.
 Use Ctrl + F (Windows) to highlight all the PLACEHOLDER that need to be replaced.
 Delete the hidden comments like this as you go.
 Good luck!
