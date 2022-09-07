@@ -1,0 +1,27 @@
+{
+  "files": [
+    "README.md",
+    "template/test.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "tlylt",
+      "name": "Liu YongLiang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41845017?v=4",
+      "profile": "http://yongliangliu.com",
+      "contributions": [
+        "code",
+        "doc",
+        "mentoring"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "oss-progress-report",
+  "projectOwner": "tlylt",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
